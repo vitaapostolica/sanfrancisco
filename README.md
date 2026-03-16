@@ -1,5 +1,5 @@
 # San Francisco.
-The assignment was done in google collab to preserve the outputs and ease the presentation. 
+The assignment was done in notebook to preserve the outputs and ease the presentation. 
 
 Datasets are:
 https://data.sfgov.org/Transportation/Map-of-Parking-Meters/fqfu-vcqd
